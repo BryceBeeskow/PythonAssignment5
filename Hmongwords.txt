@@ -1,0 +1,1000 @@
+1,raws li,as
+2,kuv,I
+3,nws,his
+4,uas,that
+5,nws,he
+6,yog,was
+7,rau,for
+8,on,on
+9,yog,are
+10,nrog,with
+11,lawv,they
+12,yuav,be
+13,ntawm,at
+14,ib,one
+15,muaj,have
+16,no,this
+17,los ntawm,from
+18,los ntawm,by
+19,kub,hot
+20,lo lus,word
+21,tab sis,but
+22,dab tsi,what
+23,ib co,some
+24,yog,is
+25,nws,it
+26,koj,you
+27,los yog,or
+28,muaj,had
+29,tus,the
+30,ntawm,of
+31,mus rau,to
+32,thiab,and
+33,ib tug,a
+34,nyob rau hauv,in
+35,peb,we
+36,tau,can
+37,tawm,out
+38,lwm yam,other
+39,twb,were
+40,uas,which
+41,ua,do
+42,lawv,their
+43,lub sij hawm,time
+44,yog tias,if
+45,yuav,will
+46,ua li cas,how
+47,hais tias,said
+48,ib,an
+49,txhua,each
+50,qhia,tell
+51,puas,does
+52,tso,set
+53,peb,three
+54,xav,want
+55,cua,air
+56,zoo,well
+57,kuj,also
+58,ua si,play
+59,me me,small
+60,kawg,end
+61,muab tso rau,put
+62,tsev,home
+63,nyeem,read
+64,tes,hand
+65,chaw nres nkoj,port
+66,loj,large
+67,yees siv,spell
+68,ntxiv,add
+69,txawm,even
+70,av,land
+71,nyob ntawm no,here
+72,yuav tsum,must
+73,loj,big
+74,siab,high
+75,xws,such
+76,ua raws li,follow
+77,act,act
+78,yog vim li cas,why
+79,nug,ask
+80,cov txiv neej,men
+81,kev hloov,change
+82,mus,went
+83,lub teeb,light
+84,zoo,kind
+85,tawm,off
+86,xav tau,need
+87,tsev,house
+88,daim duab,picture
+89,sim,try
+90,peb,us
+91,dua,again
+92,tsiaj,animal
+93,taw tes,point
+94,niam,mother
+95,ntiaj teb no,world
+96,nyob ze,near
+97,tsim,build
+98,nws tus kheej,self
+99,lub ntiaj teb,earth
+100,txiv,father
+101,tej,any
+102,tshiab,new
+103,ua hauj lwm,work
+104,ib feem,part
+105,noj,take
+106,tau,get
+107,qhov chaw,place
+108,ua,made
+109,nyob,live
+110,qhov chaw uas,where
+111,tom qab,after
+112,rov qab,back
+113,me ntsis,little
+114,tsuas,only
+115,puag ncig,round
+116,txiv neej,man
+117,xyoo,year
+118,tuaj,came
+119,qhia tau tias,show
+120,txhua txhua,every
+121,zoo,good
+122,kuv,me
+123,muab,give
+124,peb,our
+125,nyob rau hauv,under
+126,lub npe,name
+127,heev,very
+128,los ntawm,through
+129,xwb,just
+130,daim ntawv,form
+131,kab lus,sentence
+132,zoo,great
+133,xav hais tias,think
+134,hais,say
+135,pab,help
+136,tsawg,low
+137,kab,line
+138,txawv,differ
+139,tig,turn
+140,ua,cause
+141,ntau,much
+142,txhais li cas,mean
+143,ua ntej,before
+144,txav,move
+145,txoj cai,right
+146,me nyuam tub,boy
+147,qub,old
+148,heev,too
+149,tib,same
+150,nws,she
+151,tag nrho cov,all
+152,muaj,there
+153,thaum,when
+154,mus txog,up
+155,siv,use
+156,koj,your
+157,txoj kev,way
+158,txog,about
+159,ntau,many
+160,ces,then
+161,lawv,them
+162,sau ntawv,write
+163,yuav,would
+164,zoo li,like
+165,yog li,so
+166,cov,these
+167,nws,her
+168,ntev,long
+169,ua,make
+170,tshaj plaws,thing
+171,saib,see
+172,nws,him
+173,ob,two
+174,muaj,has
+175,saib,look
+176,ntau,more
+177,hnub,day
+178,ua,could
+179,mus,go
+180,tuaj,come
+181,puas tau,did
+182,muaj pes tsawg tus,number
+183,sound,sound
+184,tsis muaj,no
+185,feem ntau,most
+186,cov neeg,people
+187,kuv,my
+188,tshaj,over
+189,paub,know
+190,dej,water
+191,tshaj,than
+192,hu,call
+193,thawj,first
+194,uas,who
+195,tau,may
+196,down,down
+197,sab,side
+198,tau,been
+199,tam sim no,now
+200,nrhiav,find
+201,lub taub hau,head
+202,sawv ntsug,stand
+203,tus kheej,own
+204,page,page
+205,yuav tsum,should
+206,lub teb chaws,country
+207,pom,found
+208,lus teb,answer
+209,lub tsev kawm ntawv,school
+210,loj hlob,grow
+211,txoj kev tshawb,study
+212,tseem,still
+213,kawm,learn
+214,tsob nroj,plant
+215,cover,cover
+216,khoom noj khoom haus,food
+217,hnub,sun
+218,plaub,four
+219,nruab nrab ntawm,between
+220,lub xeev,state
+221,kom,keep
+222,qhov muag,eye
+223,yeej tsis,never
+224,kawg,last
+225,cia,let
+226,xav,thought
+227,nroog,city
+228,tsob ntoo,tree
+229,hla,cross
+230,ua liaj ua teb,farm
+231,nyuaj,hard
+232,pib,start
+233,zaum,might
+234,zaj dab neeg,story
+235,kaw,saw
+236,deb,far
+237,hiav txwv,sea
+238,kos,draw
+239,tshuav,left
+240,lig,late
+241,khiav,run
+242,ua tsis tau,donÃ¢â‚¬â„¢t
+243,thaum,while
+244,xovxwm,press
+245,ze,close
+246,hmo ntuj,night
+247,tiag tiag,real
+248,lub neej,life
+249,ob peb,few
+250,sab qaum teb,north
+251,phau ntawv,book
+252,nqa,carry
+253,coj,took
+254,science,science
+255,noj,eat
+256,chav tsev,room
+257,phooj ywg,friend
+258,pib,began
+259,lub tswv yim,idea
+260,ntses,fish
+261,roob,mountain
+262,nres,stop
+263,ib zaug,once
+264,paus,base
+265,hnov,hear
+266,nees,horse
+267,txiav,cut
+268,paub tseeb,sure
+269,saib,watch
+270,xim nqaij daim tawv,color
+271,lub ntsej muag,face
+272,wood,wood
+273,ntsiab,main
+274,qhib,open
+275,zoo li,seem
+276,ua ke,together
+277,tom ntej no,next
+278,dawb,white
+279,cov me nyuam,children
+280,pib,begin
+281,tau txais,got
+282,mus kev,walk
+283,Piv txwv li,example
+284,tsis,ease
+285,daim ntawv,paper
+286,pab pawg neeg,group
+287,yeej ib txwm,always
+288,music,music
+289,cov neeg,those
+290,ob,both
+291,cim,mark
+292,feem ntau,often
+293,tsab ntawv,letter
+294,kom txog rau thaum,until
+295,mile,mile
+296,dej,river
+297,tsheb,car
+298,ob txhais taw,feet
+299,kev saib xyuas,care
+300,thib ob,second
+301,txaus,enough
+302,tiaj,plain
+303,hluas nkauj,girl
+304,li ib txwm,usual
+305,hluas,young
+306,npaj txhij,ready
+307,saum toj no,above
+308,puas tau,ever
+309,liab,red
+310,daim ntawv teev,list
+311,tab sis yog,though
+312,xav,feel
+313,tham,talk
+314,noog,bird
+315,sai,soon
+316,lub cev,body
+317,aub,dog
+318,tsev neeg,family
+319,ncaj qha,direct
+320,pose,pose
+321,tawm,leave
+322,song,song
+323,ntsuas,measure
+324,qhov rooj,door
+325,khoom,product
+326,dub,black
+327,luv luv,short
+328,tus nab npawj,numeral
+329,chav kawm ntawv,class
+330,cua,wind
+331,lo lus nug,question
+332,tshwm sim,happen
+333,tiav,complete
+334,nkoj,ship
+335,cheeb tsam,area
+336,ib nrab,half
+337,pob zeb,rock
+338,Yuav,order
+339,hluav taws,fire
+340,sab qab teb,south
+341,teeb meem,problem
+342,daim,piece
+343,hais rau,told
+344,paub,knew
+345,dhau,pass
+346,txij li thaum,since
+347,sab saum toj,top
+348,tag nrho,whole
+349,huab tais,king
+350,txoj kev,street
+351,nti,inch
+352,multiply,multiply
+353,tsis muaj dab tsi,nothing
+354,cov hoob kawm,course
+355,nyob twj ywm,stay
+356,log,wheel
+357,tag nrho,full
+358,quab yuam,force
+359,xiav,blue
+360,yam khoom,object
+361,txiav txim siab,decide
+362,nto,surface
+363,sib sib zog nqus,deep
+364,hli,moon
+365,kob,island
+366,ko taw,foot
+367,system,system
+368,tibneeg hu tauj coob,busy
+369,xeem,test
+370,cov ntaub ntawv,record
+371,nkoj,boat
+372,ntau,common
+373,kub,gold
+374,tau,possible
+375,dav hlau,plane
+376,stead,stead
+377,qhuav,dry
+378,xav paub,wonder
+379,luag,laugh
+380,txhiab,thousand
+381,dhau los,ago
+382,khiav,ran
+383,xyuas,check
+384,kev ua si,game
+385,zoo,shape
+386,equate,equate
+387,kub,hot
+388,miss,miss
+389,coj,brought
+390,tshav kub kub,heat
+391,snow,snow
+392,log,tire
+393,coj,bring
+394,yawg,yes
+395,nyob deb,distant
+396,sau,fill
+397,sab hnub tuaj,east
+398,xim,paint
+399,lus,language
+400,cov,among
+401,unit,unit
+402,hwj chim,power
+403,lub zos,town
+404,zoo,fine
+405,tej yam,certain
+406,ya,fly
+407,poob,fall
+408,coj,lead
+409,quaj,cry
+410,tsaus,dark
+411,tshuab,machine
+412,daim ntawv,note
+413,tos,wait
+414,txoj kev npaj,plan
+415,duab,figure
+416,lub hnub qub,star
+417,lub thawv,box
+418,noun,noun
+419,teb,field
+420,so,rest
+421,tseeb,correct
+422,muaj cuab kav,able
+423,phaus,pound
+424,ua,done
+425,kev zoo nkauj,beauty
+426,tsav,drive
+427,sawv,stood
+428,muaj,contain
+429,pem hauv ntej,front
+430,qhia,teach
+431,lub lim tiam,week
+432,zaum kawg,final
+433,muab,gave
+434,ntsuab,green
+435,huag,oh
+436,ceev,quick
+437,tsim,develop
+438,dej hiav txwv,ocean
+439,sov,warm
+440,free,free
+441,feeb,minute
+442,muaj zog,strong
+443,tshwj xeeb,special
+444,siab,mind
+445,qab,behind
+446,ntshiab,clear
+447,Tsov tus tw,tail
+448,tsim,produce
+449,qhov tseeb,fact
+450,qhov chaw,space
+451,hnov,heard
+452,zoo tshaj plaws,best
+453,teev,hour
+454,zoo dua,better
+455,muaj tseeb,TRUE
+456,thaum lub sij hawm,during
+457,puas,hundred
+458,tsib,five
+459,nco ntsoov,remember
+460,kauj ruam,step
+461,thaum ntxov,early
+462,tuav,hold
+463,sab hnub poob,west
+464,hauv av,ground
+465,paj,interest
+466,cuag,reach
+467,ceev ceev,fast
+468,Nqe lus,verb
+469,hu nkauj,sing
+470,mloog,listen
+471,rau,six
+472,rooj,table
+473,mus ncig teb chaws,travel
+474,tsawg,less
+475,thaum sawv ntxov,morning
+476,kaum,ten
+477,yooj yim,simple
+478,ob peb,several
+479,vowel,vowel
+480,mus rau,toward
+481,ua tsov ua rog,war
+482,pw,lay
+483,tawm tsam,against
+484,qauv,pattern
+485,qeeb,slow
+486,chaw,center
+487,hlub,love
+488,tus neeg,person
+489,nyiaj,money
+490,pab,serve
+491,tshwm,appear
+492,txoj kev,road
+493,daim ntawv qhia,map
+494,los nag,rain
+495,txoj cai,rule
+496,kav,govern
+497,rub,pull
+498,txias,cold
+499,daim ntawv ceeb toom,notice
+500,suab,voice
+501,zog,energy
+502,hunt,hunt
+503,tej zaum,probable
+504,txaj,bed
+505,tus kwv tij,brother
+506,qe,egg
+507,caij,ride
+508,cell,cell
+509,ntseeg,believe
+510,tej zaum,perhaps
+511,tos,pick
+512,ua ciav,sudden
+513,suav,count
+514,square,square
+515,yog vim li cas,reason
+516,ntev,length
+517,sawv cev rau,represent
+518,kos duab,art
+519,raug,subject
+520,cheeb tsam,region
+521,loj,size
+522,sib txawv,vary
+523,khom,settle
+524,hais lus,speak
+525,hnyav,weight
+526,general,general
+527,ice,ice
+528,teeb meem,matter
+529,vajvoog,circle
+530,khub,pair
+531,muaj xws li,include
+532,cais,divide
+533,sylla,syllable
+534,xav,felt
+535,loj,grand
+536,pob,ball
+537,tsis tau,yet
+538,yoj,wave
+539,poob,drop
+540,lub plawv,heart
+541,yog,am
+542,tam sim no,present
+543,hnyav,heavy
+544,seev cev,dance
+545,cav,engine
+546,txoj hauj lwm,position
+547,caj npab,arm
+548,thoob,wide
+549,sail,sail
+550,cov ntaub ntawv,material
+551,feem,fraction
+552,hav zoov,forest
+553,zaum,sit
+554,haiv neeg,race
+555,qhov rais,window
+556,khw,store
+557,lub caij ntuj sov,summer
+558,tsheb ciav hlau,train
+559,pw tsaug zog,sleep
+560,ua pov thawj,prove
+561,leeg,lone
+562,txhais ceg,leg
+563,qoj ib ce,exercise
+564,phab ntsa,wall
+565,catch,catch
+566,mount,mount
+567,xav,wish
+568,ntuj,sky
+569,Rooj Tswjhwm Saib,board
+570,muaj kev xyiv fab,joy
+571,lub caij ntuj no,winter
+572,xee,sat
+573,sau,written
+574,qus,wild
+575,lub cuab tam,instrument
+576,khaws cia,kept
+577,iav,glass
+578,nyom,grass
+579,nyuj,cow
+580,txoj hauj lwm,job
+581,ntug,edge
+582,kos npe,sign
+583,mus ntsib,visit
+584,yav dhau los,past
+585,mos,soft
+586,kev lom zem,fun
+587,kaj,bright
+588,gas,gas
+589,huab cua,weather
+590,lub hlis,month
+591,lab,million
+592,ua tim,bear
+593,finish,finish
+594,zoo siab,happy
+595,cia siab,hope
+596,paj,flower
+597,hnav khaub ncaws,clothe
+598,coj txawv txawv,strange
+599,ploj,gone
+600,luam,trade
+601,suab,melody
+602,dawm,trip
+603,chaw ua hauj lwm,office
+604,tau txais,receive
+605,kab,row
+606,lub qhov ncauj,mouth
+607,kos,exact
+608,lub cim,symbol
+609,tuag,die
+610,tsawg kawg,least
+611,teeb meem,trouble
+612,qw,shout
+613,tsuas yog,except
+614,sau,wrote
+615,noob,seed
+616,tone,tone
+617,koom,join
+618,qhia,suggest
+619,huv si,clean
+620,so,break
+621,tus pojniam,lady
+622,mev,yard
+623,sawv,rise
+624,phem,bad
+625,tshuab,blow
+626,roj,oil
+627,ntshav,blood
+628,kov,touch
+629,loj hlob,grew
+630,xees,cent
+631,sib tov,mix
+632,pab neeg,team
+633,hlau,wire
+634,nqi,cost
+635,poob lawm,lost
+636,xim av,brown
+637,hnav,wear
+638,vaj,garden
+639,sib npaug zos,equal
+640,xa,sent
+641,xaiv,choose
+642,poob,fell
+643,haum,fit
+644,ntws,flow
+645,ncaj ncees,fair
+646,bank,bank
+647,sau,collect
+648,txuag,save
+649,tswj,control
+650,zauv,decimal
+651,pob ntseg,ear
+652,lwm tus neeg,else
+653,heev,quite
+654,tsoo,broke
+655,cov ntaub ntawv,case
+656,nruab nrab,middle
+657,tua,kill
+658,tus tub,son
+659,pas dej,lake
+660,caij,moment
+661,scale,scale
+662,nrov,loud
+663,caij nplooj ntoos hlav,spring
+664,saib,observe
+665,tus me nyuam,child
+666,ncaj,straight
+667,tus tsiaj ntawv,consonant
+668,lub teb chaws,nation
+669,phau ntawv txhais lus,dictionary
+670,mis nyuj,milk
+671,ceev,speed
+672,txoj kev,method
+673,hloov,organ
+674,them,pay
+675,muaj hnub nyoog,age
+676,kem,section
+677,hnav ris tsho,dress
+678,huab,cloud
+679,surprise,surprise
+680,ntsiag to,quiet
+681,pob zeb,stone
+682,me me,tiny
+683,nce lub roob,climb
+684,txias,cool
+685,tsim,design
+686,pluag,poor
+687,ntau,lot
+688,xyaum ua tej yam,experiment
+689,hauv qab,bottom
+690,tseem ceeb,key
+691,hlau,iron
+692,ib,single
+693,pas,stick
+694,ca,flat
+695,nees nkaum,twenty
+696,daim tawv nqaij,skin
+697,luag,smile
+698,crease,crease
+699,qhov,hole
+700,dhia,jump
+701,tus me nyuam,baby
+702,yim,eight
+703,lub zos,village
+704,ntsib,meet
+705,paus,root
+706,yuav,buy
+707,tsa,raise
+708,daws,solve
+709,hlau,metal
+710,seb,whether
+711,laub,push
+712,xya,seven
+713,pawg lus,paragraph
+714,thib peb,third
+715,yuav,shall
+716,tsis tshua muaj lub,held
+717,cov plaub hau,hair
+718,piav qhia txog,describe
+719,ua noj,cook
+720,pem teb,floor
+721,tog twg los,either
+722,tau,result
+723,hlawv,burn
+724,toj,hill
+725,muaj kev nyab xeeb,safe
+726,miv,cat
+727,xyoo pua,century
+728,xav txog,consider
+729,hom,type
+730,txoj cai lij choj,law
+731,me ntsis,bit
+732,ntug dej hiav txwv,coast
+733,daim ntawv luam,copy
+734,kab lus,phrase
+735,ntsiag to,silent
+736,siab,tall
+737,xuab zeb,sand
+738,av,soil
+739,yob,roll
+740,kub,temperature
+741,ntiv tes,finger
+742,kev lag luam,industry
+743,nqi,value
+744,sib ntaus,fight
+745,dag,lie
+746,beat,beat
+747,muaj siab,excite
+748,tej yam ntuj tso,natural
+749,saib,view
+750,siab,sense
+751,peev,capital
+752,yuav tsis,wonÃ¢â‚¬â„¢t
+753,lub rooj zaum,chair
+754,txaus ntshai,danger
+755,txiv hmab txiv ntoo,fruit
+756,nplua nuj,rich
+757,tuab,thick
+758,tub rog,soldier
+759,cov txheej txheem,process
+760,khiav lag luam,operate
+761,xyaum,practice
+762,cais,separate
+763,nyuaj,difficult
+764,tus kws kho mob,doctor
+765,thov,please
+766,tiv thaiv,protect
+767,tav su,noon
+768,qoob loo,crop
+769,niaj hnub,modern
+770,keeb,element
+771,ntaus,hit
+772,me nyuam kawm ntawv,student
+773,ces kaum,corner
+774,tog,party
+775,mov,supply
+776,uas nws,whose
+777,nrhiav,locate
+778,nplhaib,ring
+779,cim,character
+780,kab,insect
+781,ntes tau,caught
+782,lub sij hawm,period
+783,qhia,indicate
+784,xov tooj cua,radio
+785,hais lus,spoke
+786,atom,atom
+787,tib neeg,human
+788,keeb kwm,history
+789,nyhuv,effect
+790,hluav taws xob,electric
+791,cia siab tias,expect
+792,pob txha,bone
+793,rail,rail
+794,xav txog tej yam,imagine
+795,muab,provide
+796,pom zoo,agree
+797,yog li,thus
+798,maj mam,gentle
+799,poj niam,woman
+800,nom,captain
+801,twv,guess
+802,tsim nyog,necessary
+803,ntse,sharp
+804,tis,wing
+805,tsim,create
+806,neeg nyob ze,neighbor
+807,ntxuav,wash
+808,ntaus pob,bat
+809,es,rather
+810,neeg coob coob,crowd
+811,pob kws,corn
+812,piv,compare
+813,paj huam,poem
+814,hlua,string
+815,tswb,bell
+816,nyob ntawm seb,depend
+817,nqaij,meat
+818,xuas,rub
+819,tube,tube
+820,naas ej,famous
+921,duas,dollar
+822,kwj,stream
+823,ntshai,fear
+284,pom,sight
+825,nyias,thin
+826,daim duab peb sab,triangle
+827,ntiaj chaw,planet
+828,hurry,hurry
+829,Hmoob,chief
+830,colony,colony
+831,moos,clock
+832,kuv,mine
+833,khi,tie
+834,nkag mus,enter
+835,loj,major
+836,tshiab,fresh
+837,nrhiav,search
+838,xa,send
+839,daj,yellow
+840,phom,gun
+841,cia,allow
+842,sau,print
+843,tuag,dead
+844,chaw,spot
+845,suab puam,desert
+846,nplua,suit
+847,tam sim no,current
+848,nqa,lift
+840,sawv,rose
+850,tuaj txog,arrive
+851,tswv,master
+852,khiav,track
+853,niam txiv,parent
+854,ntug dej,shore
+855,division,division
+856,daim ntawv,sheet
+857,substance,substance
+858,nyiam,favor
+859,txuas,connect
+860,post,post
+861,siv,spend
+862,chord,chord
+863,muaj roj,fat
+864,zoo siab,glad
+865,thawj,original
+866,sib qhia,share
+867,chaw nres tsheb,station
+868,txiv,dad
+869,cij,bread
+870,them,charge
+871,kom,proper
+872,bar,bar
+873,kev,offer
+874,ntu,segment
+875,qhev,slave
+876,os,duck
+877,instant,instant
+878,kev ua lag luam,market
+879,degree,degree
+880,populate,populate
+881,qaib,chick
+882,Nyob zoo,dear
+883,yeeb ncuab,enemy
+884,teb,reply
+885,haus dej,drink
+886,tshwm sim,occur
+887,kev pab txhawb nqa,support
+888,hais lus,speech
+889,qhov,nature
+890,ntau yam,range
+891,zog,steam
+892,tsa suab,motion
+893,txoj kev,path
+894,kua,liquid
+895,cag ntoo,log
+896,meant,meant
+897,quotient,quotient
+898,cov hniav,teeth
+899,plhaub,shell
+900,caj dab,neck
+901,oxygen,oxygen
+902,qab zib,sugar
+903,tuag,death
+904,zoo nkauj,pretty
+905,kev txawj,skill
+906,cov poj niam,women
+907,lub caij,season
+908,daws,solution
+909,hlau nplaum,magnet
+910,silver,silver
+911,ua tsaug,thank
+912,ceg ntseeg tus,branch
+913,match,match
+914,tom qab,suffix
+915,tshwj xeeb tshaj yog,especially
+916,Fig,fig
+917,ntshai,afraid
+918,lossis loj,huge
+919,tus muam,sister
+920,cov hlau,steel
+921,sib tham txog,discuss
+922,pem hauv ntej,forward
+923,zoo sib xws,similar
+924,coj,guide
+925,kev,experience
+926,qhab nia,score
+927,Kua,apple
+928,yuav,bought
+929,coj,led
+930,twawb,pitch
+931,tsho tiv no,coat
+932,huab hwm coj,mass
+933,card,card
+934,band,band
+935,hlua,rope
+936,plam,slip
+937,yeej,win
+938,kev npau suav,dream
+939,thaum yav tsaus ntuj,evening
+940,mob,condition
+941,pub,feed
+942,cuab tam,tool
+943,tag nrho,total
+944,yooj yim,basic
+945,tsis hnov tsw,smell
+946,hav,valley
+947,los yog,nor
+948,ob,double
+949,rooj zaum,seat
+950,mus ntxiv,continue
+951,block,block
+952,daim ntawv,chart
+953,lub kaus mom,hat
+954,muag,sell
+955,kawm tau zoo,success
+956,lub tuam txhab,company
+957,rho,subtract
+958,kev tshwm sim,event
+959,xyov,particular
+960,deal,deal
+961,luam dej,swim
+962,lub sij hawm,term
+963,rov qab,opposite
+964,tus poj niam,wife
+965,khau,shoe
+966,xub pwg,shoulder
+967,kis,spread
+968,kho,arrange
+969,yeej thoj nam,camp
+970,txua,invent
+971,paj rwb,cotton
+972,yug,born
+973,txiav txim,determine
+974,quart,quart
+975,cuaj,nine
+976,tsheb,truck
+977,suab nrov,noise
+978,theem,level
+979,lub caij nyoog,chance
+980,sib sau ua ke,gather
+981,khw,shop
+982,stretch,stretch
+983,muab pov,throw
+984,ci,shine
+985,vaj tse,property
+986,kem,column
+987,qauv,molecule
+988,xaiv,select
+989,tsis ncaj ncees lawm,wrong
+990,grey,gray
+991,rov,repeat
+992,tsum,require
+993,broad,broad
+994,npaj,prepare
+995,ntsev,salt
+996,lub qhov ntswg,nose
+997,plural,plural
+998,txoj kev chim siab,anger
+999,daim ntawv thov,claim
+1000,teb chaws,continent	
